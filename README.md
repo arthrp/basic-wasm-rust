@@ -5,4 +5,4 @@ Extremely simple example of using functions written in Rust from JS via WebAssem
 
 1. Make sure you have Rust and *wasm32-unknown-unknown* toolchain
 2. Run build.sh
-3. Run index.html from browser that supports running wasm from filesystem (Firefox)
+3. Run index.html from browser that supports running wasm from filesystem (Firefox) or serve index.html and wasm file from some simple server.
