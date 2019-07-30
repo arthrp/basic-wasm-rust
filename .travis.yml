@@ -1,0 +1,9 @@
+language: rust
+rust:
+- stable
+os:
+- linux
+before_script:
+- rustup target add wasm32-unknown-unknown
+script:
+- ./build.sh
