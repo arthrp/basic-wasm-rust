@@ -1,4 +1,4 @@
-# basic-wasm-rust
+# basic-wasm-rust [![Build Status](https://travis-ci.org/arthrp/basic-wasm-rust.svg?branch=master)](https://travis-ci.org/arthrp/basic-wasm-rust)
 Extremely simple example of using functions written in Rust from JS via WebAssembly. This is pure Rust and pure wasm, no frameworks or "glue" JS files.
 
 ## How to run
